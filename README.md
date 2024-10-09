@@ -50,5 +50,5 @@ Recientemente titulado y especializado en el desarrollo de aplicaciones web. Me 
 - **Desarrollo de interfaces responsivas**: Optimizadas para móviles y escritorio
 
 ### 📫 Contáctame:
-- LinkedIn: [Adrián Campayo](enlace a tu LinkedIn)
-- GitHub: [Adrián Campayo](enlace a tu GitHub)
+- LinkedIn: [ https://www.linkedin.com/in/adrian-campayo-martin/ )
+- GitHub: [   https://github.com/acmmp?tab=repositories  )
