@@ -35,7 +35,7 @@ Recientemente titulado y especializado en el desarrollo de aplicaciones web. Me 
 
 - **Geolocalizador Paradas de Taxis Málaga**: Herramienta interactiva para localizar paradas de taxis en Málaga, accesible desde dispositivos móviles y de escritorio. [Ver más](https://geolocalizacion-paradas-taxis-malaga.vercel.app/)
 
-- **Ahorcado Game**: Juego del ahorcado interactivo y responsive. Desarrollado con Astro, HTML, CSS y JavaScript. [Ver más]https://juego-ahorcado-game.vercel.app/)
+- **Ahorcado Game**: Juego del ahorcado interactivo y responsive. Desarrollado con Astro, HTML, CSS y JavaScript. [Ver más](https://juego-ahorcado-game.vercel.app/)
 
 - **App Web Meteorológica**: Aplicación que se conecta a la API de OpenWeatherMap para mostrar el clima actual de cualquier ubicación, desarrollada en Angular 18. [Ver más](https://wheather-temp.vercel.app/)
 
