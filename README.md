@@ -27,17 +27,17 @@ Recientemente titulado y especializado en el desarrollo de aplicaciones web. Me 
 
 
 ### 🚀 Proyectos destacados:
-- **Memory Game**:  Aplicación interactiva que pone a prueba tu memoria y rapidez mental utilizando cartas con emojis. 🚀 ANGULAR 18. [Ver más](https://github.com/acmmp/memory-game)
+- **Memory Game**:  Aplicación interactiva que pone a prueba tu memoria y rapidez mental utilizando cartas con emojis. 🚀 ANGULAR 18. [Ver más](https://memory-game-hazel-xi.vercel.app/)
   
 - **eCommerce Web Bicicletas (CicloBike)**: Tienda online con integración completa de pasarelas de pago (PayPal, tarjetas). Incluye notificaciones automáticas por correo electrónico usando Mailer. [Ver más](https://github.com/acmmp/Ciclobike-Ecommerce)
 
 - **Reto eCommerce Restaurante**: Plataforma de reservas online para un restaurante. Gestión automática de correos electrónicos para confirmar o rechazar reservas. [Ver más](https://github.com/acmmp/Proyecto-Cocina-Kutral)
 
-- **Geolocalizador Paradas de Taxis Málaga**: Herramienta interactiva para localizar paradas de taxis en Málaga, accesible desde dispositivos móviles y de escritorio. [Ver más](https://github.com/acmmp/Geolocalizacion-paradas-taxis-MALAGA-)
+- **Geolocalizador Paradas de Taxis Málaga**: Herramienta interactiva para localizar paradas de taxis en Málaga, accesible desde dispositivos móviles y de escritorio. [Ver más](https://geolocalizacion-paradas-taxis-malaga.vercel.app/)
 
-- **Ahorcado Game**: Juego del ahorcado interactivo y responsive. Desarrollado con Astro, HTML, CSS y JavaScript. [Ver más](https://github.com/acmmp/juego-ahorcado.game)
+- **Ahorcado Game**: Juego del ahorcado interactivo y responsive. Desarrollado con Astro, HTML, CSS y JavaScript. [Ver más]https://juego-ahorcado-game.vercel.app/)
 
-- **App Web Meteorológica**: Aplicación que se conecta a la API de OpenWeatherMap para mostrar el clima actual de cualquier ubicación, desarrollada en Angular 18. [Ver más](https://github.com/acmmp/WheatherTemp)
+- **App Web Meteorológica**: Aplicación que se conecta a la API de OpenWeatherMap para mostrar el clima actual de cualquier ubicación, desarrollada en Angular 18. [Ver más](https://wheather-temp.vercel.app/)
 
 ### 📚 Experiencia Laboral:
 - **Desarrollador Front-End** en *iUrban* (Abr. 2024 - Jun. 2024): Creación de interfaces responsivas con Angular.
