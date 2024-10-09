@@ -3,7 +3,7 @@
 
 Recientemente titulado y especializado en el desarrollo de aplicaciones web. Me enfoco en crear soluciones digitales eficientes, con experiencia respaldada por varios proyectos tanto personales como profesionales.
 
-### 💻 Habilidades Técnicas 💻
+### 💻 Habilidades Técnicas 
 
 ### Lenguajes y Tecnologías:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
